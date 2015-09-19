@@ -1,2 +1,2 @@
 # My-most-used-repositories
-Repositories which I use the most
+These are the repsitories which I have found most useful with Kodi/XBMC
