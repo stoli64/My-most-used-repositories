@@ -1,2 +1,2 @@
-# My-most-used-repositories
-These are the repsitories which I have found most useful with Kodi/XBMC
+# TestReository
+This will evetually list repsitories which I have found most useful with Kodi/XBMC
